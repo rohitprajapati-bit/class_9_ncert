@@ -1,0 +1,538 @@
+{
+    "id": 9,
+    "stg": "9",
+    "name": "Class 9",
+    "language": [
+        {
+            "id": 0,
+            "name": "English",
+            "subjects": [
+                {
+                    "id": 1,
+                    "type": "English",
+                    "icon": "assets/icons_sub/english.svg",
+                    "book": [
+                        {
+                            "id": 1,
+                            "name": "Beehive",
+                            "full_pdf_link": "",
+                            "image": "class%209/English/Beehive/beehive.jpeg",
+                            "pdf_links": [
+                                {"id":0,"name":"Content","link":"class%209/English/Beehive/iebe1dd/iebe1ps.pdf"},
+                                {"id":1,"name":"Chapter 1","link":"class%209/English/Beehive/iebe1dd/iebe101.pdf"},
+                                {"id":2,"name":"Chapter 2","link":"class%209/English/Beehive/iebe1dd/iebe102.pdf"},
+                                {"id":3,"name":"Chapter 3","link":"class%209/English/Beehive/iebe1dd/iebe103.pdf"},
+                                {"id":4,"name":"Chapter 4","link":"class%209/English/Beehive/iebe1dd/iebe104.pdf"},
+                                {"id":5,"name":"Chapter 5","link":"class%209/English/Beehive/iebe1dd/iebe105.pdf"},
+                                {"id":6,"name":"Chapter 6","link":"class%209/English/Beehive/iebe1dd/iebe106.pdf"},
+                                {"id":7,"name":"Chapter 7","link":"class%209/English/Beehive/iebe1dd/iebe107.pdf"},
+                                {"id":8,"name":"Chapter 8","link":"class%209/English/Beehive/iebe1dd/iebe108.pdf"},
+                                {"id":9,"name":"Chapter 9","link":"class%209/English/Beehive/iebe1dd/iebe109.pdf"}
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "name": "Moments Supplementary Reader",
+                            "full_pdf_link": "",
+                            "image": "class%209/English/Moments%20Supplementary%20Reader/moments.jpeg",
+                            "pdf_links": [
+                                {"id":0,"name":"Content","link":"class%209/English/Moments%20Supplementary%20Reader/iemo1dd/iemo1ps.pdf"},
+                                {"id":1,"name":"Chapter 1","link":"class%209/English/Moments%20Supplementary%20Reader/iemo1dd/iemo101.pdf"},
+                                {"id":2,"name":"Chapter 2","link":"class%209/English/Moments%20Supplementary%20Reader/iemo1dd/iemo102.pdf"},
+                                {"id":3,"name":"Chapter 3","link":"class%209/English/Moments%20Supplementary%20Reader/iemo1dd/iemo103.pdf"},
+                                {"id":4,"name":"Chapter 4","link":"class%209/English/Moments%20Supplementary%20Reader/iemo1dd/iemo104.pdf"},
+                                {"id":5,"name":"Chapter 5","link":"class%209/English/Moments%20Supplementary%20Reader/iemo1dd/iemo105.pdf"},
+                                {"id":6,"name":"Chapter 6","link":"class%209/English/Moments%20Supplementary%20Reader/iemo1dd/iemo106.pdf"},
+                                {"id":7,"name":"Chapter 7","link":"class%209/English/Moments%20Supplementary%20Reader/iemo1dd/iemo107.pdf"},
+                                {"id":8,"name":"Chapter 8","link":"class%209/English/Moments%20Supplementary%20Reader/iemo1dd/iemo108.pdf"},
+                                {"id":9,"name":"Chapter 9","link":"class%209/English/Moments%20Supplementary%20Reader/iemo1dd/iemo109.pdf"}
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "name": "Words and Expressions  1",
+                            "full_pdf_link": "",
+                            "image": "class%209/English/Words%20and%20Expressions%20%201/words_expression.jpeg",
+                            "pdf_links": [
+                                {"id":0,"name":"Content","link":"class%209/English/Words%20and%20Expressions%20%201/iewe1dd/iewe1ps.pdf"},
+                                {"id":1,"name":"Chapter 1","link":"class%209/English/Words%20and%20Expressions%20%201/iewe1dd/iewe101.pdf"},
+                                {"id":2,"name":"Chapter 2","link":"class%209/English/Words%20and%20Expressions%20%201/iewe1dd/iewe102.pdf"},
+                                {"id":3,"name":"Chapter 3","link":"class%209/English/Words%20and%20Expressions%20%201/iewe1dd/iewe103.pdf"},
+                                {"id":4,"name":"Chapter 4","link":"class%209/English/Words%20and%20Expressions%20%201/iewe1dd/iewe104.pdf"},
+                                {"id":5,"name":"Chapter 5","link":"class%209/English/Words%20and%20Expressions%20%201/iewe1dd/iewe105.pdf"},
+                                {"id":6,"name":"Chapter 6","link":"class%209/English/Words%20and%20Expressions%20%201/iewe1dd/iewe106.pdf"},
+                                {"id":7,"name":"Chapter 7","link":"class%209/English/Words%20and%20Expressions%20%201/iewe1dd/iewe107.pdf"},
+                                {"id":8,"name":"Chapter 8","link":"class%209/English/Words%20and%20Expressions%20%201/iewe1dd/iewe108.pdf"},
+                                {"id":9,"name":"Chapter 9","link":"class%209/English/Words%20and%20Expressions%20%201/iewe1dd/iewe109.pdf"}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "type": "Mathametics",
+                    "icon": "assets/icons_sub/Mathematics.svg",
+
+                    "book": [
+                        {
+                            "id": 4,
+                            "name": "Mathametics-IX",
+                            "full_pdf_link": "",
+                            "image": "class%209/Mathamatics/Mathematics/math9.jpeg",
+                            "pdf_links": [
+                                {"id":0,"name":"Content","link":"class%209/Mathamatics/Mathematics/iemh1dd/iemh1ps.pdf"},
+                                {"id":1,"name":"Chapter 1","link":"class%209/Mathamatics/Mathematics/iemh1dd/iemh101.pdf"},
+                                {"id":2,"name":"Chapter 2","link":"class%209/Mathamatics/Mathematics/iemh1dd/iemh102.pdf"},
+                                {"id":3,"name":"Chapter 3","link":"class%209/Mathamatics/Mathematics/iemh1dd/iemh103.pdf"},
+                                {"id":4,"name":"Chapter 4","link":"class%209/Mathamatics/Mathematics/iemh1dd/iemh104.pdf"},
+                                {"id":5,"name":"Chapter 5","link":"class%209/Mathamatics/Mathematics/iemh1dd/iemh105.pdf"},
+                                {"id":6,"name":"Chapter 6","link":"class%209/Mathamatics/Mathematics/iemh1dd/iemh106.pdf"},
+                                {"id":7,"name":"Chapter 7","link":"class%209/Mathamatics/Mathematics/iemh1dd/iemh107.pdf"},
+                                {"id":8,"name":"Chapter 8","link":"class%209/Mathamatics/Mathematics/iemh1dd/iemh108.pdf"},
+                                {"id":9,"name":"Chapter 9","link":"class%209/Mathamatics/Mathematics/iemh1dd/iemh109.pdf"},
+                                {"id":10,"name":"Chapter 10","link":"class%209/Mathamatics/Mathematics/iemh1dd/iemh110.pdf"},
+                                {"id":11,"name":"Chapter 11","link":"class%209/Mathamatics/Mathematics/iemh1dd/iemh111.pdf"},
+                                {"id":12,"name":"Chapter 12","link":"class%209/Mathamatics/Mathematics/iemh1dd/iemh112.pdf"},
+                                {"id":13,"name":"APPENDIX 1","link":"class%209/Mathamatics/Mathematics/iemh1dd/iemh1a1.pdf"},
+                                {"id":14,"name":"APPENDIX 2","link":"class%209/Mathamatics/Mathematics/iemh1dd/iemh1a2.pdf"},
+                                {"id":15,"name":"Answers","link":"class%209/Mathamatics/Mathematics/iemh1dd/iemh1an.pdf"}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "type": "Science",
+                    "icon": "assets/icons_sub/Chemistry.svg",
+
+                    "book": [
+                        {
+                            "id": 5,
+                            "name": "Science-IX",
+                            "full_pdf_link": "",
+                            "image": "class%209/Science/Science/science9.jpeg",
+                            "pdf_links": [
+                                {"id":0,"name":"Content","link":"class%209/Science/Science/iesc1dd/iesc1ps.pdf"},
+                                {"id":1,"name":"Chapter 1","link":"class%209/Science/Science/iesc1dd/iesc101.pdf"},
+                                {"id":2,"name":"Chapter 2","link":"class%209/Science/Science/iesc1dd/iesc102.pdf"},
+                                {"id":3,"name":"Chapter 3","link":"class%209/Science/Science/iesc1dd/iesc103.pdf"},
+                                {"id":4,"name":"Chapter 4","link":"class%209/Science/Science/iesc1dd/iesc104.pdf"},
+                                {"id":5,"name":"Chapter 5","link":"class%209/Science/Science/iesc1dd/iesc105.pdf"},
+                                {"id":6,"name":"Chapter 6","link":"class%209/Science/Science/iesc1dd/iesc106.pdf"},
+                                {"id":7,"name":"Chapter 7","link":"class%209/Science/Science/iesc1dd/iesc107.pdf"},
+                                {"id":8,"name":"Chapter 8","link":"class%209/Science/Science/iesc1dd/iesc108.pdf"},
+                                {"id":9,"name":"Chapter 9","link":"class%209/Science/Science/iesc1dd/iesc109.pdf"},
+                                {"id":10,"name":"Chapter 10","link":"class%209/Science/Science/iesc1dd/iesc110.pdf"},
+                                {"id":11,"name":"Chapter 11","link":"class%209/Science/Science/iesc1dd/iesc111.pdf"},
+                                {"id":12,"name":"Chapter 12","link":"class%209/Science/Science/iesc1dd/iesc112.pdf"},
+                                {"id":13,"name":"Answers","link":"class%209/Science/Science/iesc1dd/iesc1an.pdf"}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "type": "Social Science",
+                    "icon": "assets/icons_sub/Sociology.svg",
+
+                    "book": [
+                        {
+                            "id": 6,
+                            "name": "Contemporary India",
+                            "full_pdf_link": "",
+                            "image": "class%209/Social%20Science/Contemporary%20India/contempoarary_india.jpeg",
+                            "pdf_links": [
+                                {"id":0,"name":"Content","link":"class%209/Social%20Science/Contemporary%20India/iess1dd/iess1ps.pdf"},
+                                {"id":1,"name":"Chapter 1","link":"class%209/Social%20Science/Contemporary%20India/iess1dd/iess101.pdf"},
+                                {"id":2,"name":"Chapter 2","link":"class%209/Social%20Science/Contemporary%20India/iess1dd/iess102.pdf"},
+                                {"id":3,"name":"Chapter 3","link":"class%209/Social%20Science/Contemporary%20India/iess1dd/iess103.pdf"},
+                                {"id":4,"name":"Chapter 4","link":"class%209/Social%20Science/Contemporary%20India/iess1dd/iess104.pdf"},
+                                {"id":5,"name":"Chapter 5","link":"class%209/Social%20Science/Contemporary%20India/iess1dd/iess105.pdf"},
+                                {"id":6,"name":"Chapter 6","link":"class%209/Social%20Science/Contemporary%20India/iess1dd/iess106.pdf"}
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "name": "Democratic Politics",
+                            "full_pdf_link": "",
+                            "image": "class%209/Social%20Science/Democratic%20Politics/democratic_plitics.jpeg",
+                            "pdf_links": [
+                                {"id":0,"name":"Content","link":"class%209/Social%20Science/Democratic%20Politics/iess4dd/iess4ps.pdf"},
+                                {"id":1,"name":"Chapter 1","link":"class%209/Social%20Science/Democratic%20Politics/iess4dd/iess401.pdf"},
+                                {"id":2,"name":"Chapter 2","link":"class%209/Social%20Science/Democratic%20Politics/iess4dd/iess402.pdf"},
+                                {"id":3,"name":"Chapter 3","link":"class%209/Social%20Science/Democratic%20Politics/iess4dd/iess403.pdf"},
+                                {"id":4,"name":"Chapter 4","link":"class%209/Social%20Science/Democratic%20Politics/iess4dd/iess404.pdf"},
+                                {"id":5,"name":"Chapter 5","link":"class%209/Social%20Science/Democratic%20Politics/iess4dd/iess405.pdf"}
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "name": "Economics",
+                            "full_pdf_link": "",
+                            "image": "class%209/Social%20Science/Economics/eco9.jpeg",
+                            "pdf_links": [
+                                {"id":0,"name":"Content","link":"class%209/Social%20Science/Economics/iess2dd/iess2ps.pdf"},
+                                {"id":1,"name":"Chapter 1","link":"class%209/Social%20Science/Economics/iess2dd/iess201.pdf"},
+                                {"id":2,"name":"Chapter 2","link":"class%209/Social%20Science/Economics/iess2dd/iess202.pdf"},
+                                {"id":3,"name":"Chapter 3","link":"class%209/Social%20Science/Economics/iess2dd/iess203.pdf"},
+                                {"id":4,"name":"Chapter 4","link":"class%209/Social%20Science/Economics/iess2dd/iess204.pdf"}
+                            ]
+                        },
+                        {
+                            "id": 9,
+                            "name": "India and the Contemporary World-I",
+                            "full_pdf_link": "",
+                            "image": "class%209/Social%20Science/India%20and%20the%20Contemporary%20World-I/india_contemparay_world.jpeg",
+                            "pdf_links": [
+                                {"id":0,"name":"Content","link":"class%209/Social%20Science/India%20and%20the%20Contemporary%20World-I/iess3dd/iess3ps.pdf"},
+                                {"id":1,"name":"Chapter 1","link":"class%209/Social%20Science/India%20and%20the%20Contemporary%20World-I/iess3dd/iess301.pdf"},
+                                {"id":2,"name":"Chapter 2","link":"class%209/Social%20Science/India%20and%20the%20Contemporary%20World-I/iess3dd/iess302.pdf"},
+                                {"id":3,"name":"Chapter 3","link":"class%209/Social%20Science/India%20and%20the%20Contemporary%20World-I/iess3dd/iess303.pdf"},
+                                {"id":4,"name":"Chapter 4","link":"class%209/Social%20Science/India%20and%20the%20Contemporary%20World-I/iess3dd/iess304.pdf"},
+                                {"id":5,"name":"Chapter 5","link":"class%209/Social%20Science/India%20and%20the%20Contemporary%20World-I/iess3dd/iess305.pdf"}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "type": "Health and Physical Education",
+                    "icon": "assets/icons_sub/health_Physical.svg",
+
+                    
+                    "book": [
+                        {
+                            "id": 10,
+                            "name": "Health and Physical Education",
+                            "full_pdf_link": "",
+                            "image": "class%209/Health%20and%20Physical%20Education/health_education.jpeg",
+                            "pdf_links": [
+                                {"id":0,"name":"Content","link":"class%209/Health%20and%20Physical%20Education/iehp1dd/iehp1ps.pdf"},
+                                {"id":1,"name":"Chapter 1","link":"class%209/Health%20and%20Physical%20Education/iehp1dd/iehp101.pdf"},
+                                {"id":2,"name":"Chapter 2","link":"class%209/Health%20and%20Physical%20Education/iehp1dd/iehp102.pdf"},
+                                {"id":3,"name":"Chapter 3","link":"class%209/Health%20and%20Physical%20Education/iehp1dd/iehp103.pdf"},
+                                {"id":4,"name":"Chapter 4","link":"class%209/Health%20and%20Physical%20Education/iehp1dd/iehp104.pdf"},
+                                {"id":5,"name":"Chapter 5","link":"class%209/Health%20and%20Physical%20Education/iehp1dd/iehp105.pdf"},
+                                {"id":6,"name":"Chapter 6","link":"class%209/Health%20and%20Physical%20Education/iehp1dd/iehp106.pdf"},
+                                {"id":7,"name":"Chapter 7","link":"class%209/Health%20and%20Physical%20Education/iehp1dd/iehp107.pdf"},
+                                {"id":8,"name":"Chapter 8","link":"class%209/Health%20and%20Physical%20Education/iehp1dd/iehp108.pdf"},
+                                {"id":9,"name":"Chapter 9","link":"class%209/Health%20and%20Physical%20Education/iehp1dd/iehp109.pdf"},
+                                {"id":10,"name":"Chapter 10","link":"class%209/Health%20and%20Physical%20Education/iehp1dd/iehp110.pdf"},
+                                {"id":11,"name":"Chapter 11","link":"class%209/Health%20and%20Physical%20Education/iehp1dd/iehp111.pdf"},
+                                {"id":12,"name":"Chapter 12","link":"class%209/Health%20and%20Physical%20Education/iehp1dd/iehp112.pdf"},
+                                {"id":13,"name":"Chapter 13","link":"class%209/Health%20and%20Physical%20Education/iehp1dd/iehp113.pdf"},
+                                {"id":14,"name":"Chapter 14","link":"class%209/Health%20and%20Physical%20Education/iehp1dd/iehp114.pdf"}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "type": "ICT",
+                    "icon": "assets/icons_sub/Computer_Science.svg",
+
+                    "book": [
+                        {
+                            "id": 11,
+                            "name": "ICT",
+                            "full_pdf_link": "",
+                            "image": "class%209/ICT/ict.jpeg",
+                            "pdf_links": [
+                                {"id":0,"name":"Content","link":"class%209/ICT/iict1dd/iict1ps.pdf"},
+                                {"id":1,"name":"Chapter 1","link":"class%209/ICT/iict1dd/iict101.pdf"},
+                                {"id":2,"name":"Chapter 2","link":"class%209/ICT/iict1dd/iict102.pdf"},
+                                {"id":3,"name":"Chapter 3","link":"class%209/ICT/iict1dd/iict103.pdf"},
+                                {"id":4,"name":"Chapter 4","link":"class%209/ICT/iict1dd/iict104.pdf"},
+                                {"id":5,"name":"Chapter 5","link":"class%209/ICT/iict1dd/iict105.pdf"},
+                                {"id":6,"name":"Chapter 6","link":"class%209/ICT/iict1dd/iict106.pdf"},
+                                {"id":7,"name":"Chapter 7","link":"class%209/ICT/iict1dd/iict107.pdf"},
+                                {"id":8,"name":"Chapter 8","link":"class%209/ICT/iict1dd/iict108.pdf"}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Hindi",
+            "subjects": [
+                {
+                    "id": 1,
+                    "type": "Hindi",
+                    "icon": "assets/icons_sub/Hindi.svg",
+
+                    
+                    "book": [
+                        {
+                            "id": 12,
+                            "name": "Kritika",
+                            "full_pdf_link": "",
+                            "image": "class%209/Hindi/Kritika/kritika.jpeg",
+                            "pdf_links": [
+                                {"id":0,"name":"Content","link":"class%209/Hindi/Kritika/ihkr1dd/ihkr1ps.pdf"},
+                                {"id":1,"name":"Chapter 1","link":"class%209/Hindi/Kritika/ihkr1dd/ihkr101.pdf"},
+                                {"id":2,"name":"Chapter 2","link":"class%209/Hindi/Kritika/ihkr1dd/ihkr102.pdf"},
+                                {"id":3,"name":"Chapter 3","link":"class%209/Hindi/Kritika/ihkr1dd/ihkr103.pdf"},
+                                {"id":4,"name":"Source","link":"class%209/Hindi/Kritika/ihkr1dd/ihkr1lp.pdf"}
+                            ]
+                        },
+                        {
+                            "id": 13,
+                            "name": "Kshitij",
+                            "full_pdf_link": "",
+                            "image": "class%209/Hindi/Kshitij/kshitij.jpeg",
+                            "pdf_links": [
+                                {"id":0,"name":"Content","link":"class%209/Hindi/Kshitij/ihks1dd/ihks1ps.pdf"},
+                                {"id":1,"name":"Chapter 1","link":"class%209/Hindi/Kshitij/ihks1dd/ihks101.pdf"},
+                                {"id":2,"name":"Chapter 2","link":"class%209/Hindi/Kshitij/ihks1dd/ihks102.pdf"},
+                                {"id":3,"name":"Chapter 3","link":"class%209/Hindi/Kshitij/ihks1dd/ihks103.pdf"},
+                                {"id":4,"name":"Chapter 4","link":"class%209/Hindi/Kshitij/ihks1dd/ihks104.pdf"},
+                                {"id":5,"name":"Chapter 5","link":"class%209/Hindi/Kshitij/ihks1dd/ihks105.pdf"},
+                                {"id":6,"name":"Chapter 6","link":"class%209/Hindi/Kshitij/ihks1dd/ihks106.pdf"},
+                                {"id":7,"name":"Chapter 7","link":"class%209/Hindi/Kshitij/ihks1dd/ihks107.pdf"},
+                                {"id":8,"name":"Chapter 8","link":"class%209/Hindi/Kshitij/ihks1dd/ihks108.pdf"},
+                                {"id":9,"name":"Chapter 9","link":"class%209/Hindi/Kshitij/ihks1dd/ihks109.pdf"},
+                                {"id":10,"name":"Chapter 10","link":"class%209/Hindi/Kshitij/ihks1dd/ihks110.pdf"},
+                                {"id":11,"name":"Chapter 11","link":"class%209/Hindi/Kshitij/ihks1dd/ihks111.pdf"},
+                                {"id":12,"name":"Chapter 12","link":"class%209/Hindi/Kshitij/ihks1dd/ihks112.pdf"},
+                                {"id":13,"name":"Chapter 13","link":"class%209/Hindi/Kshitij/ihks1dd/ihks113.pdf"}
+                            ]
+                        },
+                        {
+                            "id": 14,
+                            "name": "Sanchayan",
+                            "full_pdf_link": "",
+                            "image": "class%209/Hindi/Sanchayan/sanchyan.jpeg",
+                            "pdf_links": [
+                                {"id":0,"name":"Content","link":"class%209/Hindi/Sanchayan/ihsa1dd/ihsa1ps.pdf"},
+                                {"id":1,"name":"Chapter 1","link":"class%209/Hindi/Sanchayan/ihsa1dd/ihsa101.pdf"},
+                                {"id":2,"name":"Chapter 2","link":"class%209/Hindi/Sanchayan/ihsa1dd/ihsa102.pdf"},
+                                {"id":3,"name":"Chapter 3","link":"class%209/Hindi/Sanchayan/ihsa1dd/ihsa103.pdf"},
+                                {"id":4,"name":"Chapter 4","link":"class%209/Hindi/Sanchayan/ihsa1dd/ihsa104.pdf"},
+                                {"id":5,"name":"Source","link":"class%209/Hindi/Sanchayan/ihsa1dd/ihsa1lp.pdf"}
+                            ]
+                        },
+                        {
+                            "id": 15,
+                            "name": "Sprash",
+                            "full_pdf_link": "",
+                            "image": "class%209/Hindi/Sprash/sparsh.jpeg",
+                            "pdf_links": [
+                                {"id":0,"name":"Content","link":"class%209/Hindi/Sprash/ihsp1dd/ihsp1ps.pdf"},
+                                {"id":1,"name":"Chapter 1","link":"class%209/Hindi/Sprash/ihsp1dd/ihsp101.pdf"},
+                                {"id":2,"name":"Chapter 2","link":"class%209/Hindi/Sprash/ihsp1dd/ihsp102.pdf"},
+                                {"id":3,"name":"Chapter 3","link":"class%209/Hindi/Sprash/ihsp1dd/ihsp103.pdf"},
+                                {"id":4,"name":"Chapter 4","link":"class%209/Hindi/Sprash/ihsp1dd/ihsp104.pdf"},
+                                {"id":5,"name":"Chapter 5","link":"class%209/Hindi/Sprash/ihsp1dd/ihsp105.pdf"},
+                                {"id":6,"name":"Chapter 6","link":"class%209/Hindi/Sprash/ihsp1dd/ihsp106.pdf"},
+                                {"id":7,"name":"Chapter 7","link":"class%209/Hindi/Sprash/ihsp1dd/ihsp107.pdf"},
+                                {"id":8,"name":"Chapter 8","link":"class%209/Hindi/Sprash/ihsp1dd/ihsp108.pdf"},
+                                {"id":9,"name":"Chapter 9","link":"class%209/Hindi/Sprash/ihsp1dd/ihsp109.pdf"},
+                                {"id":10,"name":"Chapter 10","link":"class%209/Hindi/Sprash/ihsp1dd/ihsp110.pdf"}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "type": "Mathametics\n(Hindi)",
+                    "icon": "assets/icons_sub/Mathematics.svg",
+
+                    "book": [
+                        {
+                            "id": 16,
+                            "name": "Ganit-IX",
+                            "full_pdf_link": "",
+                            "image": "class%209/Mathamatics/Ganit/ganit9.jpeg",
+                            "pdf_links": [
+                                {"id":0,"name":"Content","link":"class%209/Mathamatics/Ganit/ihmh1dd/ihmh1ps.pdf"},
+                                {"id":1,"name":"Chapter 1","link":"class%209/Mathamatics/Ganit/ihmh1dd/ihmh101.pdf"},
+                                {"id":2,"name":"Chapter 2","link":"class%209/Mathamatics/Ganit/ihmh1dd/ihmh102.pdf"},
+                                {"id":3,"name":"Chapter 3","link":"class%209/Mathamatics/Ganit/ihmh1dd/ihmh103.pdf"},
+                                {"id":4,"name":"Chapter 4","link":"class%209/Mathamatics/Ganit/ihmh1dd/ihmh104.pdf"},
+                                {"id":5,"name":"Chapter 5","link":"class%209/Mathamatics/Ganit/ihmh1dd/ihmh105.pdf"},
+                                {"id":6,"name":"Chapter 6","link":"class%209/Mathamatics/Ganit/ihmh1dd/ihmh106.pdf"},
+                                {"id":7,"name":"Chapter 7","link":"class%209/Mathamatics/Ganit/ihmh1dd/ihmh107.pdf"},
+                                {"id":8,"name":"Chapter 8","link":"class%209/Mathamatics/Ganit/ihmh1dd/ihmh108.pdf"},
+                                {"id":9,"name":"Chapter 9","link":"class%209/Mathamatics/Ganit/ihmh1dd/ihmh109.pdf"},
+                                {"id":10,"name":"Chapter 10","link":"class%209/Mathamatics/Ganit/ihmh1dd/ihmh110.pdf"},
+                                {"id":11,"name":"Chapter 11","link":"class%209/Mathamatics/Ganit/ihmh1dd/ihmh111.pdf"},
+                                {"id":12,"name":"Chapter 12","link":"class%209/Mathamatics/Ganit/ihmh1dd/ihmh112.pdf"},
+                                {"id":12,"name":"APPENDIX 1","link":"class%209/Mathamatics/Ganit/ihmh1dd/ihmh1a1.pdf"},
+                                {"id":13,"name":"APPENDIX 2","link":"class%209/Mathamatics/Ganit/ihmh1dd/ihmh1a2.pdf"},
+                                {"id":14,"name":"Answers","link":"class%209/Mathamatics/Ganit/ihmh1dd/ihmh1an.pdf"}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "type": "Science\n(Hindi)",
+                    "icon": "assets/icons_sub/Chemistry.svg",
+
+                    "book": [
+                        {
+                            "id": 17,
+                            "name": "Vigyan-IX",
+                            "full_pdf_link": "",
+                            "image": "class%209/Science/Vigyan/vigyan9.jpeg",
+                            "pdf_links": [
+                                {"id":0,"name":"Content","link":"class%209/Science/Vigyan/ihsc1dd/ihsc1ps.pdf"},
+                                {"id":1,"name":"Chapter 1","link":"class%209/Science/Vigyan/ihsc1dd/ihsc101.pdf"},
+                                {"id":2,"name":"Chapter 2","link":"class%209/Science/Vigyan/ihsc1dd/ihsc102.pdf"},
+                                {"id":3,"name":"Chapter 3","link":"class%209/Science/Vigyan/ihsc1dd/ihsc103.pdf"},
+                                {"id":4,"name":"Chapter 4","link":"class%209/Science/Vigyan/ihsc1dd/ihsc104.pdf"},
+                                {"id":5,"name":"Chapter 5","link":"class%209/Science/Vigyan/ihsc1dd/ihsc105.pdf"},
+                                {"id":6,"name":"Chapter 6","link":"class%209/Science/Vigyan/ihsc1dd/ihsc106.pdf"},
+                                {"id":7,"name":"Chapter 7","link":"class%209/Science/Vigyan/ihsc1dd/ihsc107.pdf"},
+                                {"id":8,"name":"Chapter 8","link":"class%209/Science/Vigyan/ihsc1dd/ihsc108.pdf"},
+                                {"id":9,"name":"Chapter 9","link":"class%209/Science/Vigyan/ihsc1dd/ihsc109.pdf"},
+                                {"id":10,"name":"Chapter 10","link":"class%209/Science/Vigyan/ihsc1dd/ihsc110.pdf"},
+                                {"id":11,"name":"Chapter 11","link":"class%209/Science/Vigyan/ihsc1dd/ihsc111.pdf"},
+                                {"id":12,"name":"Chapter 12","link":"class%209/Science/Vigyan/ihsc1dd/ihsc112.pdf"},
+                                {"id":13,"name":"Answers","link":"class%209/Science/Vigyan/ihsc1dd/ihsc1an.pdf"},
+                                {"id":14,"name":"Appendix","link":"class%209/Science/Vigyan/ihsc1dd/ihsc1gs.pdf"}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "type": "Social Science\n(Hindi)",
+                    "icon": "assets/icons_sub/Sociology.svg",
+
+                    "book": [
+                        {
+                            "id": 18,
+                            "name": "Arthashastra",
+                            "full_pdf_link": "",
+                            "image": "class%209/Social%20Science/Arthashastra/arthshatra.jpeg",
+                            "pdf_links": [
+                                {"id":0,"name":"Content","link":"class%209/Social%20Science/Arthashastra/ihss2dd/ihss2ps.pdf"},
+                                {"id":1,"name":"Chapter 1","link":"class%209/Social%20Science/Arthashastra/ihss2dd/ihss201.pdf"},
+                                {"id":2,"name":"Chapter 2","link":"class%209/Social%20Science/Arthashastra/ihss2dd/ihss202.pdf"},
+                                {"id":3,"name":"Chapter 3","link":"class%209/Social%20Science/Arthashastra/ihss2dd/ihss203.pdf"},
+                                {"id":4,"name":"Chapter 4","link":"class%209/Social%20Science/Arthashastra/ihss2dd/ihss204.pdf"}
+                            ]
+                        },
+                        {
+                            "id": 19,
+                            "name": "Bharat Aur Samkalin Vishwa-I",
+                            "full_pdf_link": "",
+                            "image": "class%209/Social%20Science/Bharat%20Aur%20Samkalin%20Vishwa-I/bharat_samkalin.jpeg",
+                            "pdf_links": [
+                                {"id":0,"name":"Content","link":"class%209/Social%20Science/Bharat%20Aur%20Samkalin%20Vishwa-I/ihss3dd/ihss3ps.pdf"},
+                                {"id":1,"name":"Chapter 1","link":"class%209/Social%20Science/Bharat%20Aur%20Samkalin%20Vishwa-I/ihss3dd/ihss301.pdf"},
+                                {"id":2,"name":"Chapter 2","link":"class%209/Social%20Science/Bharat%20Aur%20Samkalin%20Vishwa-I/ihss3dd/ihss302.pdf"},
+                                {"id":3,"name":"Chapter 3","link":"class%209/Social%20Science/Bharat%20Aur%20Samkalin%20Vishwa-I/ihss3dd/ihss303.pdf"},
+                                {"id":4,"name":"Chapter 4","link":"class%209/Social%20Science/Bharat%20Aur%20Samkalin%20Vishwa-I/ihss3dd/ihss304.pdf"},
+                                {"id":5,"name":"Chapter 5","link":"class%209/Social%20Science/Bharat%20Aur%20Samkalin%20Vishwa-I/ihss3dd/ihss305.pdf"}
+                            ]
+                        },
+                        {
+                            "id": 20,
+                            "name": "Loktantrik Rajniti",
+                            "full_pdf_link": "",
+                            "image": "class%209/Social%20Science/Loktantrik%20Rajniti/loktantrik_rajniti.jpeg",
+                            "pdf_links": [
+                                {"id":0,"name":"Content","link":"class%209/Social%20Science/Loktantrik%20Rajniti/ihss4dd/ihss4ps.pdf"},
+                                {"id":1,"name":"Chapter 1","link":"class%209/Social%20Science/Loktantrik%20Rajniti/ihss4dd/ihss401.pdf"},
+                                {"id":2,"name":"Chapter 2","link":"class%209/Social%20Science/Loktantrik%20Rajniti/ihss4dd/ihss402.pdf"},
+                                {"id":3,"name":"Chapter 3","link":"class%209/Social%20Science/Loktantrik%20Rajniti/ihss4dd/ihss403.pdf"},
+                                {"id":4,"name":"Chapter 4","link":"class%209/Social%20Science/Loktantrik%20Rajniti/ihss4dd/ihss404.pdf"},
+                                {"id":5,"name":"Chapter 5","link":"class%209/Social%20Science/Loktantrik%20Rajniti/ihss4dd/ihss405.pdf"}
+                            ]
+                        },
+                        {
+                            "id": 21,
+                            "name": "Samkalin Bharat",
+                            "full_pdf_link": "",
+                            "image": "class%209/Social%20Science/Samkalin%20Bharat/samkalin_bharat.jpeg",   
+                            "pdf_links": [
+                                {"id":0,"name":"Content","link":"class%209/Social%20Science/Samkalin%20Bharat/ihss1dd/ihss1ps.pdf"},
+                                {"id":1,"name":"Chapter 1","link":"class%209/Social%20Science/Samkalin%20Bharat/ihss1dd/ihss101.pdf"},
+                                {"id":2,"name":"Chapter 2","link":"class%209/Social%20Science/Samkalin%20Bharat/ihss1dd/ihss102.pdf"},
+                                {"id":3,"name":"Chapter 3","link":"class%209/Social%20Science/Samkalin%20Bharat/ihss1dd/ihss103.pdf"},
+                                {"id":4,"name":"Chapter 4","link":"class%209/Social%20Science/Samkalin%20Bharat/ihss1dd/ihss104.pdf"},
+                                {"id":5,"name":"Chapter 5","link":"class%209/Social%20Science/Samkalin%20Bharat/ihss1dd/ihss105.pdf"},
+                                {"id":6,"name":"Chapter 6","link":"class%209/Social%20Science/Samkalin%20Bharat/ihss1dd/ihss106.pdf"}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "type": "Sanskrit",
+                    "icon": "assets/icons_sub/Sanskrit.svg",
+
+                    "book": [
+                        {
+                            "id": 22,
+                            "name": "Abhyaswaan Bhav",
+                            "full_pdf_link": "",
+                            "image": "class%209/Sanskrit/Abhyaswaan%20Bhav/abhyaswan.jpeg",
+                            "pdf_links": [
+                                {"id":0,"name":"Content","link":"class%209/Sanskrit/Abhyaswaan%20Bhav/isab1dd/isab1ps.pdf"},
+                                {"id":1,"name":"Chapter 1","link":"class%209/Sanskrit/Abhyaswaan%20Bhav/isab1dd/isab101.pdf"},
+                                {"id":2,"name":"Chapter 2","link":"class%209/Sanskrit/Abhyaswaan%20Bhav/isab1dd/isab102.pdf"},
+                                {"id":3,"name":"Chapter 3","link":"class%209/Sanskrit/Abhyaswaan%20Bhav/isab1dd/isab103.pdf"},
+                                {"id":4,"name":"Chapter 4","link":"class%209/Sanskrit/Abhyaswaan%20Bhav/isab1dd/isab104.pdf"},
+                                {"id":5,"name":"Chapter 5","link":"class%209/Sanskrit/Abhyaswaan%20Bhav/isab1dd/isab105.pdf"},
+                                {"id":6,"name":"Chapter 6","link":"class%209/Sanskrit/Abhyaswaan%20Bhav/isab1dd/isab106.pdf"},
+                                {"id":7,"name":"Chapter 7","link":"class%209/Sanskrit/Abhyaswaan%20Bhav/isab1dd/isab107.pdf"},
+                                {"id":8,"name":"Chapter 8","link":"class%209/Sanskrit/Abhyaswaan%20Bhav/isab1dd/isab108.pdf"},
+                                {"id":9,"name":"Chapter 9","link":"class%209/Sanskrit/Abhyaswaan%20Bhav/isab1dd/isab109.pdf"},
+                                {"id":10,"name":"Chapter 10","link":"class%209/Sanskrit/Abhyaswaan%20Bhav/isab1dd/isab110.pdf"},
+                                {"id":11,"name":"Chapter 11","link":"class%209/Sanskrit/Abhyaswaan%20Bhav/isab1dd/isab111.pdf"},
+                                {"id":12,"name":"Chapter 12","link":"class%209/Sanskrit/Abhyaswaan%20Bhav/isab1dd/isab112.pdf"}
+                            ]
+                        },
+                        {
+                            "id": 23,
+                            "name": "Shemushi Prathmo Bhag",
+                            "full_pdf_link": "",
+                            "image": "class%209/Sanskrit/Shemushi%20Prathmo%20Bhag/shemushi.jpeg",
+                            "pdf_links": [
+                                {"id":0,"name":"Content","link":"class%209/Sanskrit/Shemushi%20Prathmo%20Bhag/ihsh1dd/ihsh1ps.pdf"},
+                                {"id":1,"name":"Chapter 1","link":"class%209/Sanskrit/Shemushi%20Prathmo%20Bhag/ihsh1dd/ihsh101.pdf"},
+                                {"id":2,"name":"Chapter 2","link":"class%209/Sanskrit/Shemushi%20Prathmo%20Bhag/ihsh1dd/ihsh102.pdf"},
+                                {"id":3,"name":"Chapter 3","link":"class%209/Sanskrit/Shemushi%20Prathmo%20Bhag/ihsh1dd/ihsh103.pdf"},
+                                {"id":4,"name":"Chapter 4","link":"class%209/Sanskrit/Shemushi%20Prathmo%20Bhag/ihsh1dd/ihsh104.pdf"},
+                                {"id":5,"name":"Chapter 5","link":"class%209/Sanskrit/Shemushi%20Prathmo%20Bhag/ihsh1dd/ihsh105.pdf"},
+                                {"id":6,"name":"Chapter 6","link":"class%209/Sanskrit/Shemushi%20Prathmo%20Bhag/ihsh1dd/ihsh106.pdf"},
+                                {"id":7,"name":"Chapter 7","link":"class%209/Sanskrit/Shemushi%20Prathmo%20Bhag/ihsh1dd/ihsh107.pdf"},
+                                {"id":8,"name":"Chapter 8","link":"class%209/Sanskrit/Shemushi%20Prathmo%20Bhag/ihsh1dd/ihsh108.pdf"},
+                                {"id":9,"name":"Chapter 9","link":"class%209/Sanskrit/Shemushi%20Prathmo%20Bhag/ihsh1dd/ihsh109.pdf"},
+                                {"id":10,"name":"Chapter 10","link":"class%209/Sanskrit/Shemushi%20Prathmo%20Bhag/ihsh1dd/ihsh110.pdf"}
+                            ]
+                        },
+                        {
+                            "id": 24,
+                            "name": "Vyakaranavithi",
+                            "full_pdf_link": "",
+                            "image": "class%209/Sanskrit/Vyakaranavithi/vyakaranvidhti.jpeg",
+                            "pdf_links": [
+                                {"id":0,"name":"Content","link":"class%209/Sanskrit/Vyakaranavithi/jhva1dd/jhva1ps.pdf"},
+                                {"id":1,"name":"Chapter 1","link":"class%209/Sanskrit/Vyakaranavithi/jhva1dd/jhva101.pdf"},
+                                {"id":2,"name":"Chapter 2","link":"class%209/Sanskrit/Vyakaranavithi/jhva1dd/jhva102.pdf"},
+                                {"id":3,"name":"Chapter 3","link":"class%209/Sanskrit/Vyakaranavithi/jhva1dd/jhva103.pdf"},
+                                {"id":4,"name":"Chapter 4","link":"class%209/Sanskrit/Vyakaranavithi/jhva1dd/jhva104.pdf"},
+                                {"id":5,"name":"Chapter 5","link":"class%209/Sanskrit/Vyakaranavithi/jhva1dd/jhva105.pdf"},
+                                {"id":6,"name":"Chapter 6","link":"class%209/Sanskrit/Vyakaranavithi/jhva1dd/jhva106.pdf"},
+                                {"id":7,"name":"Chapter 7","link":"class%209/Sanskrit/Vyakaranavithi/jhva1dd/jhva107.pdf"},
+                                {"id":8,"name":"Chapter 8","link":"class%209/Sanskrit/Vyakaranavithi/jhva1dd/jhva108.pdf"},
+                                {"id":9,"name":"Chapter 9","link":"class%209/Sanskrit/Vyakaranavithi/jhva1dd/jhva109.pdf"},
+                                {"id":10,"name":"Chapter 10","link":"class%209/Sanskrit/Vyakaranavithi/jhva1dd/jhva110.pdf"},
+                                {"id":11,"name":"Chapter 11","link":"class%209/Sanskrit/Vyakaranavithi/jhva1dd/jhva111.pdf"},
+                                {"id":12,"name":"Chapter 12","link":"class%209/Sanskrit/Vyakaranavithi/jhva1dd/jhva112.pdf"},
+                                {"id":13,"name":"Appendix","link":"class%209/Sanskrit/Vyakaranavithi/jhva1dd/jhva1dr.pdf"},
+                                {"id":14,"name":"Appendix-I","link":"class%209/Sanskrit/Vyakaranavithi/jhva1dd/jhva1sr.pdf"}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

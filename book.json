@@ -1,0 +1,2288 @@
+{
+    "id": 12,
+    "stg": "12",
+    "name": "Class 12",
+    "language": [
+        {
+            "id": 0,
+            "name": "English",
+            "subjects": [
+                {
+                    "id": 1,
+                    "type": "Accountancy",
+                    "icon": "assets/icons_sub/accountancy.svg",
+                    "book": [
+                        {
+                            "id": 1,
+                            "name": "Accountancy-I",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Accountancy/Accountancy-I/accountancy1.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Accountancy/Accountancy-I/leac1dd/leac1ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "Accounting for Partnership : Basic Concepts",
+                                    "link": "class%2012/Accountancy/Accountancy-I/leac1dd/leac101.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Reconstitution of a Partnership Firm – Admission of a Partner",
+                                    "link": "class%2012/Accountancy/Accountancy-I/leac1dd/leac102.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Reconstitution of a Partnership Firm – Retirement/Death of a Partner",
+                                    "link": "class%2012/Accountancy/Accountancy-I/leac1dd/leac103.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Dissolution of Partnership Firm",
+                                    "link": "class%2012/Accountancy/Accountancy-I/leac1dd/leac104.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "name": "Financial Accounting-II",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Accountancy/Accountancy%20Part-II/accountancy2.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Accountancy/Accountancy%20Part-II/leac2dd/leac2ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "Accounting for Share Capital",
+                                    "link": "class%2012/Accountancy/Accountancy%20Part-II/leac2dd/leac201.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Issue and Redemption of Debentures",
+                                    "link": "class%2012/Accountancy/Accountancy%20Part-II/leac2dd/leac202.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Financial Statements of a Company",
+                                    "link": "class%2012/Accountancy/Accountancy%20Part-II/leac2dd/leac203.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Analysis of Financial Statements",
+                                    "link": "class%2012/Accountancy/Accountancy%20Part-II/leac2dd/leac204.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Accounting Ratios",
+                                    "link": "class%2012/Accountancy/Accountancy%20Part-II/leac2dd/leac205.pdf"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Cash Flow Statement",
+                                    "link": "class%2012/Accountancy/Accountancy%20Part-II/leac2dd/leac206.pdf"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "type": "Biology",
+                    "icon": "assets/icons_sub/Biology.svg",
+                    "book": [
+                        {
+                            "id": 3,
+                            "name": "Biology",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Biology/Biology/biology12.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Biology/Biology/lebo1dd/lebo1ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "Sexual Reproduction in Flowering Plants",
+                                    "link": "class%2012/Biology/Biology/lebo1dd/lebo101.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Human Reproduction",
+                                    "link": "class%2012/Biology/Biology/lebo1dd/lebo102.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Reproductive Health",
+                                    "link": "class%2012/Biology/Biology/lebo1dd/lebo103.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Principles of Inheritance and Variation",
+                                    "link": "class%2012/Biology/Biology/lebo1dd/lebo104.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Molecular Basis of Inheritance",
+                                    "link": "class%2012/Biology/Biology/lebo1dd/lebo105.pdf"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Evolution",
+                                    "link": "class%2012/Biology/Biology/lebo1dd/lebo106.pdf"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Human Health and Disease",
+                                    "link": "class%2012/Biology/Biology/lebo1dd/lebo107.pdf"
+                                },
+                                {
+                                    "id": 8,
+                                    "name": "Microbes in Human Welfare",
+                                    "link": "class%2012/Biology/Biology/lebo1dd/lebo108.pdf"
+                                },
+                                {
+                                    "id": 9,
+                                    "name": "Biotechnology: Principles and Processes",
+                                    "link": "class%2012/Biology/Biology/lebo1dd/lebo109.pdf"
+                                },
+                                {
+                                    "id": 10,
+                                    "name": "Biotechnology and its Applications",
+                                    "link": "class%2012/Biology/Biology/lebo1dd/lebo110.pdf"
+                                },
+                                {
+                                    "id": 11,
+                                    "name": "Organisms and Populations",
+                                    "link": "class%2012/Biology/Biology/lebo1dd/lebo111.pdf"
+                                },
+                                {
+                                    "id": 12,
+                                    "name": "Ecosystem",
+                                    "link": "class%2012/Biology/Biology/lebo1dd/lebo112.pdf"
+                                },
+                                {
+                                    "id": 13,
+                                    "name": "Biodiversity and Conservation",
+                                    "link": "class%2012/Biology/Biology/lebo1dd/lebo113.pdf"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "type": "Biotechnology",
+                    "icon": "assets/icons_sub/Biotechnology.svg",
+                    "book": [
+                        {
+                            "id": 4,
+                            "name": "Biotechnology",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Biotechnology/Biotechnology/biotechnology.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Biotechnology/Biotechnology/lebt1dd/lebt1ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "An Overview of Recombinant DNA Technology ",
+                                    "link": "class%2012/Biotechnology/Biotechnology/lebt1dd/lebt101.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Host–Vector System",
+                                    "link": "class%2012/Biotechnology/Biotechnology/lebt1dd/lebt102.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Gene Cloning",
+                                    "link": "class%2012/Biotechnology/Biotechnology/lebt1dd/lebt103.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Applications of Recombinant DNA Technology",
+                                    "link": "class%2012/Biotechnology/Biotechnology/lebt1dd/lebt104.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Genome Technology and Engineering",
+                                    "link": "class%2012/Biotechnology/Biotechnology/lebt1dd/lebt105.pdf"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Microbial Culture ",
+                                    "link": "class%2012/Biotechnology/Biotechnology/lebt1dd/lebt106.pdf"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Plant Tissue Culture",
+                                    "link": "class%2012/Biotechnology/Biotechnology/lebt1dd/lebt107.pdf"
+                                },
+                                {
+                                    "id": 8,
+                                    "name": "Animal Cell Culture",
+                                    "link": "class%2012/Biotechnology/Biotechnology/lebt1dd/lebt108.pdf"
+                                },
+                                {
+                                    "id": 9,
+                                    "name": "Stem Cell Culture and Organ Culture",
+                                    "link": "class%2012/Biotechnology/Biotechnology/lebt1dd/lebt109.pdf"
+                                },
+                                {
+                                    "id": 10,
+                                    "name": "Bioprocessing and Biomanufacturing",
+                                    "link": "class%2012/Biotechnology/Biotechnology/lebt1dd/lebt110.pdf"
+                                },
+                                {
+                                    "id": 11,
+                                    "name": "Bioremediation",
+                                    "link": "class%2012/Biotechnology/Biotechnology/lebt1dd/lebt111.pdf"
+                                },
+                                {
+                                    "id": 12,
+                                    "name": "Recent Innovations in Biotechnology",
+                                    "link": "class%2012/Biotechnology/Biotechnology/lebt1dd/lebt112.pdf"
+                                },
+                                {
+                                    "id": 13,
+                                    "name": "Entrepreneurship",
+                                    "link": "class%2012/Biotechnology/Biotechnology/lebt1dd/lebt113.pdf"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "type": "Business Studies",
+                    "icon": "assets/icons_sub/Business_Studies.svg",
+                    "book": [
+                        {
+                            "id": 5,
+                            "name": "Business Studies",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Business%20Studies/Business%20Studies-I/busniness_studies1.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Business%20Studies/Business%20Studies-I/lebs1dd/lebs1ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "Nature and Significance of Management",
+                                    "link": "class%2012/Business%20Studies/Business%20Studies-I/lebs1dd/lebs101.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Principles of Management",
+                                    "link": "class%2012/Business%20Studies/Business%20Studies-I/lebs1dd/lebs102.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Business Environment ",
+                                    "link": "class%2012/Business%20Studies/Business%20Studies-I/lebs1dd/lebs103.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Planning",
+                                    "link": "class%2012/Business%20Studies/Business%20Studies-I/lebs1dd/lebs104.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Organising",
+                                    "link": "class%2012/Business%20Studies/Business%20Studies-I/lebs1dd/lebs105.pdf"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Staffing",
+                                    "link": "class%2012/Business%20Studies/Business%20Studies-I/lebs1dd/lebs106.pdf"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Directing",
+                                    "link": "class%2012/Business%20Studies/Business%20Studies-I/lebs1dd/lebs107.pdf"
+                                },
+                                {
+                                    "id": 8,
+                                    "name": "Controlling",
+                                    "link": "class%2012/Business%20Studies/Business%20Studies-I/lebs1dd/lebs108.pdf"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "type": "Chemistry",
+                    "icon": "assets/icons_sub/Chemistry.svg",
+                    "book": [
+                        {
+                            "id": 6,
+                            "name": "Chemistry Part-I",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Chemistry/Chemistry-I/chemistry1.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Chemistry/Chemistry-I/lech1dd/lech1ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "Solutions",
+                                    "link": "class%2012/Chemistry/Chemistry-I/lech1dd/lech101.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Electrochemistry",
+                                    "link": "class%2012/Chemistry/Chemistry-I/lech1dd/lech102.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Chemical Kinetics",
+                                    "link": "class%2012/Chemistry/Chemistry-I/lech1dd/lech103.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "The d-and f-Block Elements",
+                                    "link": "class%2012/Chemistry/Chemistry-I/lech1dd/lech104.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Coordination Compounds",
+                                    "link": "class%2012/Chemistry/Chemistry-I/lech1dd/lech105.pdf"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Appendix-I",
+                                    "link": "class%2012/Chemistry/Chemistry-I/lech1dd/lech1a1.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Answers",
+                                    "link": "class%2012/Chemistry/Chemistry-I/lech1dd/lech1an.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "name": "Chemistry Part-II",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Chemistry/Chemistry-II/chemistry2.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Chemistry/Chemistry-II/lech2dd/lech2ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "Haloalkanes and Haloarenes",
+                                    "link": "class%2012/Chemistry/Chemistry-II/lech2dd/lech201.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Alcohols, Phenols and Ethers",
+                                    "link": "class%2012/Chemistry/Chemistry-II/lech2dd/lech202.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Aldehydes, Ketones and Carboxylic Acids",
+                                    "link": "class%2012/Chemistry/Chemistry-II/lech2dd/lech203.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Amines",
+                                    "link": "class%2012/Chemistry/Chemistry-II/lech2dd/lech204.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Biomolecules",
+                                    "link": "class%2012/Chemistry/Chemistry-II/lech2dd/lech205.pdf"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Answers",
+                                    "link": "class%2012/Chemistry/Chemistry-II/lech2dd/lech2an.pdf"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "type": "Computer Science",
+                    "icon": "assets/icons_sub/Computer_Science.svg",
+                    "book": [
+                        {
+                            "id": 8,
+                            "name": "Computer Science",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Computer%20Science/Computer%20Science/computer_science.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Computer%20Science/Computer%20Science/lecs1dd/lecs1ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "Exception Handling in Python",
+                                    "link": "class%2012/Computer%20Science/Computer%20Science/lecs1dd/lecs101.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "File Handling in Python ",
+                                    "link": "class%2012/Computer%20Science/Computer%20Science/lecs1dd/lecs102.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Stack",
+                                    "link": "class%2012/Computer%20Science/Computer%20Science/lecs1dd/lecs103.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Queue",
+                                    "link": "class%2012/Computer%20Science/Computer%20Science/lecs1dd/lecs104.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Sorting",
+                                    "link": "class%2012/Computer%20Science/Computer%20Science/lecs1dd/lecs105.pdf"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Searching",
+                                    "link": "class%2012/Computer%20Science/Computer%20Science/lecs1dd/lecs106.pdf"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Understanding Data",
+                                    "link": "class%2012/Computer%20Science/Computer%20Science/lecs1dd/lecs107.pdf"
+                                },
+                                {
+                                    "id": 8,
+                                    "name": "Database Concepts",
+                                    "link": "class%2012/Computer%20Science/Computer%20Science/lecs1dd/lecs108.pdf"
+                                },
+                                {
+                                    "id": 9,
+                                    "name": "Structured Query Language (SQL) ",
+                                    "link": "class%2012/Computer%20Science/Computer%20Science/lecs1dd/lecs109.pdf"
+                                },
+                                {
+                                    "id": 10,
+                                    "name": "Computer Networks",
+                                    "link": "class%2012/Computer%20Science/Computer%20Science/lecs1dd/lecs110.pdf"
+                                },
+                                {
+                                    "id": 11,
+                                    "name": "Data Communication",
+                                    "link": "class%2012/Computer%20Science/Computer%20Science/lecs1dd/lecs111.pdf"
+                                },
+                                {
+                                    "id": 12,
+                                    "name": "Security Aspects",
+                                    "link": "class%2012/Computer%20Science/Computer%20Science/lecs1dd/lecs112.pdf"
+                                },
+                                {
+                                    "id": 13,
+                                    "name": "Project Based Learning",
+                                    "link": "class%2012/Computer%20Science/Computer%20Science/lecs1dd/lecs113.pdf"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "type": "Creative Writing and Translation",
+                    "icon": "assets/icons_sub/Creative_Writing_and_Translation.svg",
+                    "book": [
+                        {
+                            "id": 9,
+                            "name": "Srijan-II",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Creative%20Writing%20%26%20Translation/Srijan-II/srijan3.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Creative%20Writing%20%26%20Translation/Srijan-II/khsr2dd/khsr2ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "Literary Writing",
+                                    "link": "class%2012/Creative%20Writing%20%26%20Translation/Srijan-II/khsr2dd/khsr201.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Media Writing",
+                                    "link": "class%2012/Creative%20Writing%20%26%20Translation/Srijan-II/khsr2dd/khsr202.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "The Process of Translation",
+                                    "link": "class%2012/Creative%20Writing%20%26%20Translation/Srijan-II/khsr2dd/khsr203.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Editing",
+                                    "link": "class%2012/Creative%20Writing%20%26%20Translation/Srijan-II/khsr2dd/khsr204.pdf"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "type": "Economics",
+                    "icon": "assets/icons_sub/Economics.svg",
+                    "book": [
+                        {
+                            "id": 10,
+                            "name": "Introductory Macroeconomics",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Economics/Introductory%20Macroeconomics/intro_macro_eco.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Economics/Introductory%20Macroeconomics/leec1dd/leec1ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "INTRODUCTION",
+                                    "link": "class%2012/Economics/Introductory%20Macroeconomics/leec1dd/leec101.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "NATIONAL INCOME ACCOUNTING",
+                                    "link": "class%2012/Economics/Introductory%20Macroeconomics/leec1dd/leec102.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "MONEY AND BANKING",
+                                    "link": "class%2012/Economics/Introductory%20Macroeconomics/leec1dd/leec103.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "DETERMINATION OF INCOME AND EMPLOYMENT",
+                                    "link": "class%2012/Economics/Introductory%20Macroeconomics/leec1dd/leec104.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "GOVERNMENT BUDGET AND THE ECONOMY",
+                                    "link": "class%2012/Economics/Introductory%20Macroeconomics/leec1dd/leec105.pdf"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "OPEN ECONOMY MACROECONOMICS",
+                                    "link": "class%2012/Economics/Introductory%20Macroeconomics/leec1dd/leec106.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 11,
+                            "name": "Introductory Microeconomics",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Economics/Introductory%20Microeconomics/introductory_microeco.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Economics/Introductory%20Microeconomics/leec2dd/leec2ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "INTRODUCTION",
+                                    "link": "class%2012/Economics/Introductory%20Microeconomics/leec2dd/leec201.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "THEORY OF CONSUMER BEHAVIOUR",
+                                    "link": "class%2012/Economics/Introductory%20Microeconomics/leec2dd/leec202.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "PRODUCTION AND COSTS",
+                                    "link": "class%2012/Economics/Introductory%20Microeconomics/leec2dd/leec203.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "THE THEORY OF THE FIRM UNDER PERFECT COMPETITION",
+                                    "link": "class%2012/Economics/Introductory%20Microeconomics/leec2dd/leec204.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "MARKET EQUILIBRIUM",
+                                    "link": "class%2012/Economics/Introductory%20Microeconomics/leec2dd/leec205.pdf"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "type": "English",
+                    "icon": "assets/icons_sub/english.svg",
+                    "book": [
+                        {
+                            "id": 12,
+                            "name": "Flamingo",
+                            "full_pdf_link": "",
+                            "image": "class%2012/English/Flamingo/flamingo.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/English/Flamingo/lefl1dd/lefl1ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "THE LAST LESSON",
+                                    "link": "class%2012/English/Flamingo/lefl1dd/lefl101.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "LOST SPRING",
+                                    "link": "class%2012/English/Flamingo/lefl1dd/lefl102.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "DEEP WATER",
+                                    "link": "class%2012/English/Flamingo/lefl1dd/lefl103.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "THE RATTRAP",
+                                    "link": "class%2012/English/Flamingo/lefl1dd/lefl104.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "INDIGO",
+                                    "link": "class%2012/English/Flamingo/lefl1dd/lefl105.pdf"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "POETS AND PANCAKES",
+                                    "link": "class%2012/English/Flamingo/lefl1dd/lefl106.pdf"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "THE INTERVIEW",
+                                    "link": "class%2012/English/Flamingo/lefl1dd/lefl107.pdf"
+                                },
+                                {
+                                    "id": 8,
+                                    "name": "GOING PLACES",
+                                    "link": "class%2012/English/Flamingo/lefl1dd/lefl108.pdf"
+                                },
+                                {
+                                    "id": 9,
+                                    "name": "MY MOTHER AT SIXTY-SIX",
+                                    "link": "class%2012/English/Flamingo/lefl1dd/lefl111.pdf"
+                                },
+                                {
+                                    "id": 10,
+                                    "name": "KEEPING QUIET",
+                                    "link": "class%2012/English/Flamingo/lefl1dd/lefl112.pdf"
+                                },
+                                {
+                                    "id": 11,
+                                    "name": "A THING OF BEAUTY",
+                                    "link": "class%2012/English/Flamingo/lefl1dd/lefl113.pdf"
+                                },
+                                {
+                                    "id": 12,
+                                    "name": "A ROADSIDE STAND",
+                                    "link": "class%2012/English/Flamingo/lefl1dd/lefl114.pdf"
+                                },
+                                {
+                                    "id": 13,
+                                    "name": "AUNT JENNIFER’S TIGERS",
+                                    "link": "class%2012/English/Flamingo/lefl1dd/lefl115.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 13,
+                            "name": "Kaliedoscope",
+                            "full_pdf_link": "",
+                            "image": "class%2012/English/Kaliedoscope/kaliedoscope.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/English/Kaliedoscope/lekl1dd/lekl1ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "I Sell my Dreams",
+                                    "link": "class%2012/English/Kaliedoscope/lekl1dd/lekl101.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Eveline",
+                                    "link": "class%2012/English/Kaliedoscope/lekl1dd/lekl102.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "A Wedding in Brownsville",
+                                    "link": "class%2012/English/Kaliedoscope/lekl1dd/lekl103.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Tomorrow",
+                                    "link": "class%2012/English/Kaliedoscope/lekl1dd/lekl104.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "One Centimetre",
+                                    "link": "class%2012/English/Kaliedoscope/lekl1dd/lekl105.pdf"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "A Lecture Upon the Shadow ",
+                                    "link": "class%2012/English/Kaliedoscope/lekl1dd/lekl111.pdf"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Poems by Milton",
+                                    "link": "class%2012/English/Kaliedoscope/lekl1dd/lekl112.pdf"
+                                },
+                                {
+                                    "id": 8,
+                                    "name": "Poems by Blake",
+                                    "link": "class%2012/English/Kaliedoscope/lekl1dd/lekl113.pdf"
+                                },
+                                {
+                                    "id": 9,
+                                    "name": "Kubla Khan",
+                                    "link": "class%2012/English/Kaliedoscope/lekl1dd/lekl114.pdf"
+                                },
+                                {
+                                    "id": 10,
+                                    "name": "Trees",
+                                    "link": "class%2012/English/Kaliedoscope/lekl1dd/lekl115.pdf"
+                                },
+                                {
+                                    "id": 11,
+                                    "name": "The Wild Swans of Coole",
+                                    "link": "class%2012/English/Kaliedoscope/lekl1dd/lekl116.pdf"
+                                },
+                                {
+                                    "id": 12,
+                                    "name": "Time and Time Again",
+                                    "link": "class%2012/English/Kaliedoscope/lekl1dd/lekl117.pdf"
+                                },
+                                {
+                                    "id": 13,
+                                    "name": "Blood",
+                                    "link": "class%2012/English/Kaliedoscope/lekl1dd/lekl118.pdf"
+                                },
+                                {
+                                    "id": 14,
+                                    "name": "Freedom",
+                                    "link": "class%2012/English/Kaliedoscope/lekl1dd/lekl121.pdf"
+                                },
+                                {
+                                    "id": 15,
+                                    "name": "The Mark on the Wall",
+                                    "link": "class%2012/English/Kaliedoscope/lekl1dd/lekl122.pdf"
+                                },
+                                {
+                                    "id": 16,
+                                    "name": "Film-making",
+                                    "link": "class%2012/English/Kaliedoscope/lekl1dd/lekl123.pdf"
+                                },
+                                {
+                                    "id": 17,
+                                    "name": "Why the Novel Matters",
+                                    "link": "class%2012/English/Kaliedoscope/lekl1dd/lekl124.pdf"
+                                },
+                                {
+                                    "id": 18,
+                                    "name": "The Argumentative Indian",
+                                    "link": "class%2012/English/Kaliedoscope/lekl1dd/lekl125.pdf"
+                                },
+                                {
+                                    "id": 19,
+                                    "name": "On Science Fiction",
+                                    "link": "class%2012/English/Kaliedoscope/lekl1dd/lekl126.pdf"
+                                },
+                                {
+                                    "id": 20,
+                                    "name": "Chandalika",
+                                    "link": "class%2012/English/Kaliedoscope/lekl1dd/lekl131.pdf"
+                                },
+                                {
+                                    "id": 21,
+                                    "name": "Broken Images",
+                                    "link": "class%2012/English/Kaliedoscope/lekl1dd/lekl132.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 14,
+                            "name": "Vistas",
+                            "full_pdf_link": "",
+                            "image": "class%2012/English/Vistas/vistas.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/English/Vistas/levt1dd/levt1ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "The Third level",
+                                    "link": "class%2012/English/Vistas/levt1dd/levt101.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "The Tiger King",
+                                    "link": "class%2012/English/Vistas/levt1dd/levt102.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Journey To The End of the Earth",
+                                    "link": "class%2012/English/Vistas/levt1dd/levt103.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "The Enemy",
+                                    "link": "class%2012/English/Vistas/levt1dd/levt104.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "On The face of it",
+                                    "link": "class%2012/English/Vistas/levt1dd/levt105.pdf"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Memories of Childhood",
+                                    "link": "class%2012/English/Vistas/levt1dd/levt106.pdf"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "type": "Fine Art",
+                    "icon": "assets/icons_sub/Fine_Art.svg",
+                    "book": [
+                        {
+                            "id": 15,
+                            "name": "An Introduction to Indian Art Part-II",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Fine%20Art/An%20Introduction%20to%20Indian%20Art%20Part-II/intro_indian_art3.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Fine%20Art/An%20Introduction%20to%20Indian%20Art%20Part-II/lefa1dd/lefa1ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "The Manuscript Painting Tradition",
+                                    "link": "class%2012/Fine%20Art/An%20Introduction%20to%20Indian%20Art%20Part-II/lefa1dd/lefa101.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "The Rajasthani Schools of Painting",
+                                    "link": "class%2012/Fine%20Art/An%20Introduction%20to%20Indian%20Art%20Part-II/lefa1dd/lefa102.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "The Mughal School of Miniature Painting",
+                                    "link": "class%2012/Fine%20Art/An%20Introduction%20to%20Indian%20Art%20Part-II/lefa1dd/lefa103.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "The Deccani Schools of Painting",
+                                    "link": "class%2012/Fine%20Art/An%20Introduction%20to%20Indian%20Art%20Part-II/lefa1dd/lefa104.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "The Pahari Schools of Painting",
+                                    "link": "class%2012/Fine%20Art/An%20Introduction%20to%20Indian%20Art%20Part-II/lefa1dd/lefa105.pdf"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "The Bengal School and Cultural Nationalism ",
+                                    "link": "class%2012/Fine%20Art/An%20Introduction%20to%20Indian%20Art%20Part-II/lefa1dd/lefa106.pdf"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "The Modern Indian Art",
+                                    "link": "class%2012/Fine%20Art/An%20Introduction%20to%20Indian%20Art%20Part-II/lefa1dd/lefa107.pdf"
+                                },
+                                {
+                                    "id": 8,
+                                    "name": "The Living Art Traditions of India",
+                                    "link": "class%2012/Fine%20Art/An%20Introduction%20to%20Indian%20Art%20Part-II/lefa1dd/lefa108.pdf"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "type": "Geography",
+                    "icon": "assets/icons_sub/Geography.svg",
+                    "book": [
+                        {
+                            "id": 16,
+                            "name": "Fundamentals of Human Geography",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Geography/Fundamentals%20of%20Human%20Geography/foundation_human_geo.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Geography/Fundamentals%20of%20Human%20Geography/legy1dd/legy1ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "Human Geography Nature and Scope",
+                                    "link": "class%2012/Geography/Fundamentals%20of%20Human%20Geography/legy1dd/legy101.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "The World Population Distribution, Density and Growth",
+                                    "link": "class%2012/Geography/Fundamentals%20of%20Human%20Geography/legy1dd/legy102.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Human Development",
+                                    "link": "class%2012/Geography/Fundamentals%20of%20Human%20Geography/legy1dd/legy103.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Primary Activities",
+                                    "link": "class%2012/Geography/Fundamentals%20of%20Human%20Geography/legy1dd/legy104.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Secondary Activities ",
+                                    "link": "class%2012/Geography/Fundamentals%20of%20Human%20Geography/legy1dd/legy105.pdf"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Tertiary and Quaternary Activities",
+                                    "link": "class%2012/Geography/Fundamentals%20of%20Human%20Geography/legy1dd/legy106.pdf"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Transport and Communication",
+                                    "link": "class%2012/Geography/Fundamentals%20of%20Human%20Geography/legy1dd/legy107.pdf"
+                                },
+                                {
+                                    "id": 8,
+                                    "name": "International Trade",
+                                    "link": "class%2012/Geography/Fundamentals%20of%20Human%20Geography/legy1dd/legy108.pdf"
+                                },
+                                {
+                                    "id": 9,
+                                    "name": "Appendix",
+                                    "link": "class%2012/Geography/Fundamentals%20of%20Human%20Geography/legy1dd/legy1a1.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 17,
+                            "name": "India People and Economy",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Geography/India%20-People%20And%20Economy/india_people_eco.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Geography/India%20-People%20And%20Economy/legy2dd/legy2ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "Population : Distribution, Density, Growth and Composition",
+                                    "link": "class%2012/Geography/India%20-People%20And%20Economy/legy2dd/legy201.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Human Settlements",
+                                    "link": "class%2012/Geography/India%20-People%20And%20Economy/legy2dd/legy202.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Land Resources and Agriculture",
+                                    "link": "class%2012/Geography/India%20-People%20And%20Economy/legy2dd/legy203.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Water Resources",
+                                    "link": "class%2012/Geography/India%20-People%20And%20Economy/legy2dd/legy204.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Mineral and Energy Resources",
+                                    "link": "class%2012/Geography/India%20-People%20And%20Economy/legy2dd/legy205.pdf"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Planning and Sustainable Development in Indian Context",
+                                    "link": "class%2012/Geography/India%20-People%20And%20Economy/legy2dd/legy206.pdf"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Transport and Communication",
+                                    "link": "class%2012/Geography/India%20-People%20And%20Economy/legy2dd/legy207.pdf"
+                                },
+                                {
+                                    "id": 8,
+                                    "name": "International Trade ",
+                                    "link": "class%2012/Geography/India%20-People%20And%20Economy/legy2dd/legy208.pdf"
+                                },
+                                {
+                                    "id": 9,
+                                    "name": "Geographical Perspective on Selected Issues and Problems",
+                                    "link": "class%2012/Geography/India%20-People%20And%20Economy/legy2dd/legy209.pdf"
+                                },
+                                {
+                                    "id": 10,
+                                    "name": "Appendix",
+                                    "link": "class%2012/Geography/India%20-People%20And%20Economy/legy2dd/legy2a1.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 18,
+                            "name": "Practical Work in Geography Part II",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Geography/Practical%20Work%20in%20Geography%20Part%20II/pratical_work_in_geo.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Geography/Practical%20Work%20in%20Geography%20Part%20II/legy3dd/legy3ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "Data – Its Source and Compilation",
+                                    "link": "class%2012/Geography/Practical%20Work%20in%20Geography%20Part%20II/legy3dd/legy301.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Data Processing",
+                                    "link": "class%2012/Geography/Practical%20Work%20in%20Geography%20Part%20II/legy3dd/legy302.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Graphical Representation of Data",
+                                    "link": "class%2012/Geography/Practical%20Work%20in%20Geography%20Part%20II/legy3dd/legy303.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Use of Computer in Data Processing and Mapping",
+                                    "link": "class%2012/Geography/Practical%20Work%20in%20Geography%20Part%20II/legy3dd/legy304.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Field Surveys",
+                                    "link": "class%2012/Geography/Practical%20Work%20in%20Geography%20Part%20II/legy3dd/legy305.pdf"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Spatial Information Technology",
+                                    "link": "class%2012/Geography/Practical%20Work%20in%20Geography%20Part%20II/legy3dd/legy306.pdf"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Appendix",
+                                    "link": "class%2012/Geography/Practical%20Work%20in%20Geography%20Part%20II/legy3dd/legy3a1.pdf"
+                                },
+                                {
+                                    "id": 8,
+                                    "name": "Appendix-I",
+                                    "link": "class%2012/Geography/Practical%20Work%20in%20Geography%20Part%20II/legy3dd/legy3ax.pdf"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "type": "History",
+                    "icon": "assets/icons_sub/History.svg",
+                    "book": [
+                        {
+                            "id": 19,
+                            "name": "Themes in Indian History-I",
+                            "full_pdf_link": "",
+                            "image": "class%2012/History/Themes%20in%20Indian%20History-I/themes_in_indian_history.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/History/Themes%20in%20Indian%20History-I/lehs1dd/lehs1ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "THEME ONE",
+                                    "link": "class%2012/History/Themes%20in%20Indian%20History-I/lehs1dd/lehs101.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "THEME TWO",
+                                    "link": "class%2012/History/Themes%20in%20Indian%20History-I/lehs1dd/lehs102.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "THEME THREE",
+                                    "link": "class%2012/History/Themes%20in%20Indian%20History-I/lehs1dd/lehs103.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "THEME FOUR",
+                                    "link": "class%2012/History/Themes%20in%20Indian%20History-I/lehs1dd/lehs104.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 20,
+                            "name": "Themes in Indian History-II",
+                            "full_pdf_link": "",
+                            "image": "class%2012/History/Themes%20in%20Indian%20History-II/theme_indiasn_history2.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/History/Themes%20in%20Indian%20History-II/lehs2dd/lehs2ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "THEME FIVE",
+                                    "link": "class%2012/History/Themes%20in%20Indian%20History-II/lehs2dd/lehs201.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "THEME SIX",
+                                    "link": "class%2012/History/Themes%20in%20Indian%20History-II/lehs2dd/lehs202.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "THEME SEVEN",
+                                    "link": "class%2012/History/Themes%20in%20Indian%20History-II/lehs2dd/lehs203.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "THEME EIGHT",
+                                    "link": "class%2012/History/Themes%20in%20Indian%20History-II/lehs2dd/lehs204.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 21,
+                            "name": "Themes in Indian History-III",
+                            "full_pdf_link": "",
+                            "image": "class%2012/History/Themes%20in%20Indian%20History-III/theme_indian_hosyyory3.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/History/Themes%20in%20Indian%20History-III/lehs3dd/lehs3ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "THEME NINE",
+                                    "link": "class%2012/History/Themes%20in%20Indian%20History-III/lehs3dd/lehs301.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "THEME TEN",
+                                    "link": "class%2012/History/Themes%20in%20Indian%20History-III/lehs3dd/lehs302.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "THEME ELEVEN",
+                                    "link": "class%2012/History/Themes%20in%20Indian%20History-III/lehs3dd/lehs303.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "THEME TWELVE",
+                                    "link": "class%2012/History/Themes%20in%20Indian%20History-III/lehs3dd/lehs304.pdf"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "type": "Home Science",
+                    "icon": "assets/icons_sub/Home_Science.svg",
+                    "book": [
+                        {
+                            "id": 22,
+                            "name": "Human Ecology and Family Sciences Part I ",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Home%20Science/Human%20Ecology%20and%20Family%20Sciences%20Part%20I%20/human_ecology_family.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Home%20Science/Human%20Ecology%20and%20Family%20Sciences%20Part%20I%20/lehe1dd/lehe1ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "Work, Livelihood and Career",
+                                    "link": "class%2012/Home%20Science/Human%20Ecology%20and%20Family%20Sciences%20Part%20I%20/lehe1dd/lehe101.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Clinical Nutrition and Dietetics",
+                                    "link": "class%2012/Home%20Science/Human%20Ecology%20and%20Family%20Sciences%20Part%20I%20/lehe1dd/lehe102.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Public Nutrition and Health",
+                                    "link": "class%2012/Home%20Science/Human%20Ecology%20and%20Family%20Sciences%20Part%20I%20/lehe1dd/lehe103.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Food Processing and Technology",
+                                    "link": "class%2012/Home%20Science/Human%20Ecology%20and%20Family%20Sciences%20Part%20I%20/lehe1dd/lehe104.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Food Quality and Food Safety",
+                                    "link": "class%2012/Home%20Science/Human%20Ecology%20and%20Family%20Sciences%20Part%20I%20/lehe1dd/lehe105.pdf"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Early Childhood Care and Education",
+                                    "link": "class%2012/Home%20Science/Human%20Ecology%20and%20Family%20Sciences%20Part%20I%20/lehe1dd/lehe106.pdf"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Management of Support Services, Institutions and Programmes for Children, Youth and Elderly",
+                                    "link": "class%2012/Home%20Science/Human%20Ecology%20and%20Family%20Sciences%20Part%20I%20/lehe1dd/lehe107.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 23,
+                            "name": "Human Ecology and Family Sciences Part II ",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Home%20Science/Human%20Ecology%20and%20Family%20Sciences%20Part%20II%20/human_ecology_science2.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Home%20Science/Human%20Ecology%20and%20Family%20Sciences%20Part%20II%20/lehe2dd/lehe2ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "Design for Fabric and Apparel",
+                                    "link": "class%2012/Home%20Science/Human%20Ecology%20and%20Family%20Sciences%20Part%20II%20/lehe2dd/lehe201.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Fashion Design and Merchandising",
+                                    "link": "class%2012/Home%20Science/Human%20Ecology%20and%20Family%20Sciences%20Part%20II%20/lehe2dd/lehe202.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Care and Maintenance of Fabrics in Institutions ",
+                                    "link": "class%2012/Home%20Science/Human%20Ecology%20and%20Family%20Sciences%20Part%20II%20/lehe2dd/lehe203.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Hospitality Management",
+                                    "link": "class%2012/Home%20Science/Human%20Ecology%20and%20Family%20Sciences%20Part%20II%20/lehe2dd/lehe204.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Consumer Education and Protection",
+                                    "link": "class%2012/Home%20Science/Human%20Ecology%20and%20Family%20Sciences%20Part%20II%20/lehe2dd/lehe205.pdf"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Development Communication and Journalism",
+                                    "link": "class%2012/Home%20Science/Human%20Ecology%20and%20Family%20Sciences%20Part%20II%20/lehe2dd/lehe206.pdf"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Corporate Communication and Public Relations ",
+                                    "link": "class%2012/Home%20Science/Human%20Ecology%20and%20Family%20Sciences%20Part%20II%20/lehe2dd/lehe207.pdf"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "type": "Informatics Practices",
+                    "icon": "assets/icons_sub/Informatics_Practices.svg",
+                    "book": [
+                        {
+                            "id": 24,
+                            "name": "Informatics Practices",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Informatics%20Practices/Informatics%20Practices/informatics_pratics.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Informatics%20Practices/Informatics%20Practices/leip1dd/leip1ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "Querying and SQL Functions",
+                                    "link": "class%2012/Informatics%20Practices/Informatics%20Practices/leip1dd/leip101.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Data Handling using Pandas - I",
+                                    "link": "class%2012/Informatics%20Practices/Informatics%20Practices/leip1dd/leip102.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Data Handling using Pandas - II",
+                                    "link": "class%2012/Informatics%20Practices/Informatics%20Practices/leip1dd/leip103.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Plotting Data using Matplotlib",
+                                    "link": "class%2012/Informatics%20Practices/Informatics%20Practices/leip1dd/leip104.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Internet and Web",
+                                    "link": "class%2012/Informatics%20Practices/Informatics%20Practices/leip1dd/leip105.pdf"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Societal Impacts ",
+                                    "link": "class%2012/Informatics%20Practices/Informatics%20Practices/leip1dd/leip106.pdf"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Project Based Learning",
+                                    "link": "class%2012/Informatics%20Practices/Informatics%20Practices/leip1dd/leip107.pdf"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "type": "Mathematics",
+                    "icon": "assets/icons_sub/Mathematics.svg",
+                    "book": [
+                        {
+                            "id": 25,
+                            "name": "Mathematics-I",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Mathematics/Mathematics%20Part-I/math1.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Mathematics/Mathematics%20Part-I/lemh1dd/lemh1ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "Relations and Functions",
+                                    "link": "class%2012/Mathematics/Mathematics%20Part-I/lemh1dd/lemh101.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Inverse Trigonometric Functions",
+                                    "link": "class%2012/Mathematics/Mathematics%20Part-I/lemh1dd/lemh102.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Matrices",
+                                    "link": "class%2012/Mathematics/Mathematics%20Part-I/lemh1dd/lemh103.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Determinants",
+                                    "link": "class%2012/Mathematics/Mathematics%20Part-I/lemh1dd/lemh104.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Continuity and Differentiability",
+                                    "link": "class%2012/Mathematics/Mathematics%20Part-I/lemh1dd/lemh105.pdf"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Application of Derivatives",
+                                    "link": "class%2012/Mathematics/Mathematics%20Part-I/lemh1dd/lemh106.pdf"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Appendix",
+                                    "link": "class%2012/Mathematics/Mathematics%20Part-I/lemh1dd/lemh1a1.pdf"
+                                },
+                                {
+                                    "id": 8,
+                                    "name": "Appendix-II",
+                                    "link": "class%2012/Mathematics/Mathematics%20Part-I/lemh1dd/lemh1a2.pdf"
+                                },
+                                {
+                                    "id": 9,
+                                    "name": "Answers",
+                                    "link": "class%2012/Mathematics/Mathematics%20Part-I/lemh1dd/lemh1an.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 26,
+                            "name": "Mathematics-II",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Mathematics/Mathematics%20Part-II/math2.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Mathematics/Mathematics%20Part-II/lemh2dd/lemh2ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "Integrals",
+                                    "link": "class%2012/Mathematics/Mathematics%20Part-II/lemh2dd/lemh201.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Application of Integrals",
+                                    "link": "class%2012/Mathematics/Mathematics%20Part-II/lemh2dd/lemh202.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Differential Equations",
+                                    "link": "class%2012/Mathematics/Mathematics%20Part-II/lemh2dd/lemh203.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Vector Algebra",
+                                    "link": "class%2012/Mathematics/Mathematics%20Part-II/lemh2dd/lemh204.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Three Dimensional Geometry",
+                                    "link": "class%2012/Mathematics/Mathematics%20Part-II/lemh2dd/lemh205.pdf"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Linear Programming",
+                                    "link": "class%2012/Mathematics/Mathematics%20Part-II/lemh2dd/lemh206.pdf"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Probability",
+                                    "link": "class%2012/Mathematics/Mathematics%20Part-II/lemh2dd/lemh207.pdf"
+                                },
+                                {
+                                    "id": 8,
+                                    "name": "Answers",
+                                    "link": "class%2012/Mathematics/Mathematics%20Part-II/lemh2dd/lemh2an.pdf"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "type": "Physics",
+                    "icon": "assets/icons_sub/Physics.svg",
+                    "book": [
+                        {
+                            "id": 27,
+                            "name": "Physics Part-I",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Physics/Physics%20Part-I/physics.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Physics/Physics%20Part-I/leph1dd/leph1ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "ELECTRIC CHARGES AND FIELDS",
+                                    "link": "class%2012/Physics/Physics%20Part-I/leph1dd/leph101.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "ELECTROSTATIC POTENTIAL AND CAPACITANCE",
+                                    "link": "class%2012/Physics/Physics%20Part-I/leph1dd/leph102.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "CURRENT ELECTRICITY",
+                                    "link": "class%2012/Physics/Physics%20Part-I/leph1dd/leph103.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "MOVING CHARGES AND MAGNETISM",
+                                    "link": "class%2012/Physics/Physics%20Part-I/leph1dd/leph104.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "MAGNETISM AND MATTER",
+                                    "link": "class%2012/Physics/Physics%20Part-I/leph1dd/leph105.pdf"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "ELECTROMAGNETIC INDUCTION",
+                                    "link": "class%2012/Physics/Physics%20Part-I/leph1dd/leph106.pdf"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "ALTERNATING CURRENT",
+                                    "link": "class%2012/Physics/Physics%20Part-I/leph1dd/leph107.pdf"
+                                },
+                                {
+                                    "id": 8,
+                                    "name": "ELECTROMAGNETIC WAVES",
+                                    "link": "class%2012/Physics/Physics%20Part-I/leph1dd/leph108.pdf"
+                                },
+                                {
+                                    "id": 9,
+                                    "name": "Answers",
+                                    "link": "class%2012/Physics/Physics%20Part-I/leph1dd/leph1an.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 28,
+                            "name": "Physics Part-II",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Physics/Physics%20Part-II/physics2.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Physics/Physics%20Part-II/leph2dd/leph2ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "RAY OPTICS AND OPTICAL INSTRUMENTS",
+                                    "link": "class%2012/Physics/Physics%20Part-II/leph2dd/leph201.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "WAVE OPTICS",
+                                    "link": "class%2012/Physics/Physics%20Part-II/leph2dd/leph202.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "DUAL NATURE OF RADIATION AND MATTER",
+                                    "link": "class%2012/Physics/Physics%20Part-II/leph2dd/leph203.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "ATOMS",
+                                    "link": "class%2012/Physics/Physics%20Part-II/leph2dd/leph204.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "NUCLEI",
+                                    "link": "class%2012/Physics/Physics%20Part-II/leph2dd/leph205.pdf"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "SEMICONDUCTOR ELECTRONICS: MATERIALS, DEVICES AND SIMPLE CIRCUITS",
+                                    "link": "class%2012/Physics/Physics%20Part-II/leph2dd/leph206.pdf"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "type": "Political Science",
+                    "icon": "assets/icons_sub/Political_Science.svg",
+                    "book": [
+                        {
+                            "id": 29,
+                            "name": "Contemporary World Politics",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Political%20Science/Contemporary%20World%20Politics/contemporary_world_politics.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Political%20Science/Contemporary%20World%20Politics/leps1dd/leps1ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "The End of Bipolarity",
+                                    "link": "class%2012/Political%20Science/Contemporary%20World%20Politics/leps1dd/leps101.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Contemporary Centres of Power",
+                                    "link": "class%2012/Political%20Science/Contemporary%20World%20Politics/leps1dd/leps102.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Contemporary South Asia ",
+                                    "link": "class%2012/Political%20Science/Contemporary%20World%20Politics/leps1dd/leps103.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "International Organisations ",
+                                    "link": "class%2012/Political%20Science/Contemporary%20World%20Politics/leps1dd/leps104.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Security in the Contemporary World",
+                                    "link": "class%2012/Political%20Science/Contemporary%20World%20Politics/leps1dd/leps105.pdf"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Environment and Natural Resources ",
+                                    "link": "class%2012/Political%20Science/Contemporary%20World%20Politics/leps1dd/leps106.pdf"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Globalisation",
+                                    "link": "class%2012/Political%20Science/Contemporary%20World%20Politics/leps1dd/leps107.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 30,
+                            "name": "Politics in India Since Independence",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Political%20Science/Politics%20in%20India%20Since%20Independence/politics_in_india_since_inde.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Political%20Science/Politics%20in%20India%20Since%20Independence/leps2dd/leps2ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "Challenges of nation building",
+                                    "link": "class%2012/Political%20Science/Politics%20in%20India%20Since%20Independence/leps2dd/leps201.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Era of one-party dominance",
+                                    "link": "class%2012/Political%20Science/Politics%20in%20India%20Since%20Independence/leps2dd/leps202.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Politics of planned development",
+                                    "link": "class%2012/Political%20Science/Politics%20in%20India%20Since%20Independence/leps2dd/leps203.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "India’s external relations",
+                                    "link": "class%2012/Political%20Science/Politics%20in%20India%20Since%20Independence/leps2dd/leps204.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Challenges to and restoration of the congress system",
+                                    "link": "class%2012/Political%20Science/Politics%20in%20India%20Since%20Independence/leps2dd/leps205.pdf"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "The crisis of democratic order",
+                                    "link": "class%2012/Political%20Science/Politics%20in%20India%20Since%20Independence/leps2dd/leps206.pdf"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Regional aspirations ",
+                                    "link": "class%2012/Political%20Science/Politics%20in%20India%20Since%20Independence/leps2dd/leps207.pdf"
+                                },
+                                {
+                                    "id": 8,
+                                    "name": "Recent developments in indian politics",
+                                    "link": "class%2012/Political%20Science/Politics%20in%20India%20Since%20Independence/leps2dd/leps208.pdf"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "type": "Psychology",
+                    "icon": "assets/icons_sub/Psychology.svg",
+                    "book": [
+                        {
+                            "id": 31,
+                            "name": "Psychology",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Psychology/Psychology/psycology.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Psychology/Psychology/lepy1dd/lepy1ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "Variations in Psychological Attributes ",
+                                    "link": "class%2012/Psychology/Psychology/lepy1dd/lepy101.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Self and Personality",
+                                    "link": "class%2012/Psychology/Psychology/lepy1dd/lepy102.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Meeting Life Challenges",
+                                    "link": "class%2012/Psychology/Psychology/lepy1dd/lepy103.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Psychological Disorders",
+                                    "link": "class%2012/Psychology/Psychology/lepy1dd/lepy104.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Therapeutic Approaches",
+                                    "link": "class%2012/Psychology/Psychology/lepy1dd/lepy105.pdf"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Attitude and Social Cognition",
+                                    "link": "class%2012/Psychology/Psychology/lepy1dd/lepy106.pdf"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Social Influence and Group Processes",
+                                    "link": "class%2012/Psychology/Psychology/lepy1dd/lepy107.pdf"
+                                },
+                                {
+                                    "id": 8,
+                                    "name": "GUIDELINES",
+                                    "link": "class%2012/Psychology/Psychology/lepy1dd/lepy1gl.pdf"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 18,
+                    "type": "Sociology",
+                    "icon": "assets/icons_sub/Sociology.svg",
+                    "book": [
+                        {
+                            "id": 32,
+                            "name": "Indian Society",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Sociology/Indian%20Society/indian_society.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Sociology/Indian%20Society/lesy1dd/lesy1ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "Introducing Indian Society",
+                                    "link": "class%2012/Sociology/Indian%20Society/lesy1dd/lesy101.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "The Demographic Structure of the Indian Society",
+                                    "link": "class%2012/Sociology/Indian%20Society/lesy1dd/lesy102.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Social Institutions: Continuity and Change",
+                                    "link": "class%2012/Sociology/Indian%20Society/lesy1dd/lesy103.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "The Market as a Social Institution",
+                                    "link": "class%2012/Sociology/Indian%20Society/lesy1dd/lesy104.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Patterns of Social Inequality and Exclusion",
+                                    "link": "class%2012/Sociology/Indian%20Society/lesy1dd/lesy105.pdf"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "The Challenges of Cultural Diversity",
+                                    "link": "class%2012/Sociology/Indian%20Society/lesy1dd/lesy106.pdf"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Suggestions for Project Work",
+                                    "link": "class%2012/Sociology/Indian%20Society/lesy1dd/lesy107.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 33,
+                            "name": "Social Change and Development in India",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Sociology/Social%20Change%20and%20Development%20in%20India/social_change_development.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Sociology/Social%20Change%20and%20Development%20in%20India/lesy2dd/lesy2ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "Structural Change",
+                                    "link": "class%2012/Sociology/Social%20Change%20and%20Development%20in%20India/lesy2dd/lesy201.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Cultural Change",
+                                    "link": "class%2012/Sociology/Social%20Change%20and%20Development%20in%20India/lesy2dd/lesy202.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "The Constitution and Social Change",
+                                    "link": "class%2012/Sociology/Social%20Change%20and%20Development%20in%20India/lesy2dd/lesy203.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Change and Development in Rural Society",
+                                    "link": "class%2012/Sociology/Social%20Change%20and%20Development%20in%20India/lesy2dd/lesy204.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Change and Development in Industrial Society",
+                                    "link": "class%2012/Sociology/Social%20Change%20and%20Development%20in%20India/lesy2dd/lesy205.pdf"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Globalisation and Social Change",
+                                    "link": "class%2012/Sociology/Social%20Change%20and%20Development%20in%20India/lesy2dd/lesy206.pdf"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Mass Media and Communications",
+                                    "link": "class%2012/Sociology/Social%20Change%20and%20Development%20in%20India/lesy2dd/lesy207.pdf"
+                                },
+                                {
+                                    "id": 8,
+                                    "name": "Social Movements",
+                                    "link": "class%2012/Sociology/Social%20Change%20and%20Development%20in%20India/lesy2dd/lesy208.pdf"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Hindi",
+            "subjects": [
+                {
+                    "id": 1,
+                    "type": "Hindi",
+                    "icon": "assets/icons_sub/Hindi.svg",
+                    "book": [
+                        {
+                            "id": 34,
+                            "name": "Antra",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Hindi/Antra/antra.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Hindi/Antra/lhat1dd/lhat1ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "Chapter 1",
+                                    "link": "class%2012/Hindi/Antra/lhat1dd/lhat101.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Chapter 2",
+                                    "link": "class%2012/Hindi/Antra/lhat1dd/lhat102.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Chapter 3",
+                                    "link": "class%2012/Hindi/Antra/lhat1dd/lhat103.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Chapter 4",
+                                    "link": "class%2012/Hindi/Antra/lhat1dd/lhat104.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Chapter 5",
+                                    "link": "class%2012/Hindi/Antra/lhat1dd/lhat105.pdf"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Chapter 6",
+                                    "link": "class%2012/Hindi/Antra/lhat1dd/lhat106.pdf"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Chapter 7",
+                                    "link": "class%2012/Hindi/Antra/lhat1dd/lhat107.pdf"
+                                },
+                                {
+                                    "id": 8,
+                                    "name": "Chapter 8",
+                                    "link": "class%2012/Hindi/Antra/lhat1dd/lhat108.pdf"
+                                },
+                                {
+                                    "id": 9,
+                                    "name": "Chapter 9",
+                                    "link": "class%2012/Hindi/Antra/lhat1dd/lhat109.pdf"
+                                },
+                                {
+                                    "id": 10,
+                                    "name": "Chapter 10",
+                                    "link": "class%2012/Hindi/Antra/lhat1dd/lhat110.pdf"
+                                },
+                                {
+                                    "id": 11,
+                                    "name": "Chapter 11",
+                                    "link": "class%2012/Hindi/Antra/lhat1dd/lhat111.pdf"
+                                },
+                                {
+                                    "id": 12,
+                                    "name": "Chapter 12",
+                                    "link": "class%2012/Hindi/Antra/lhat1dd/lhat112.pdf"
+                                },
+                                {
+                                    "id": 13,
+                                    "name": "Chapter 13",
+                                    "link": "class%2012/Hindi/Antra/lhat1dd/lhat113.pdf"
+                                },
+                                {
+                                    "id": 14,
+                                    "name": "Chapter 14",
+                                    "link": "class%2012/Hindi/Antra/lhat1dd/lhat114.pdf"
+                                },
+                                {
+                                    "id": 15,
+                                    "name": "Chapter 15",
+                                    "link": "class%2012/Hindi/Antra/lhat1dd/lhat115.pdf"
+                                },
+                                {
+                                    "id": 16,
+                                    "name": "Chapter 16",
+                                    "link": "class%2012/Hindi/Antra/lhat1dd/lhat116.pdf"
+                                },
+                                {
+                                    "id": 17,
+                                    "name": "Chapter 17",
+                                    "link": "class%2012/Hindi/Antra/lhat1dd/lhat117.pdf"
+                                },
+                                {
+                                    "id": 18,
+                                    "name": "Chapter 18",
+                                    "link": "class%2012/Hindi/Antra/lhat1dd/lhat118.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 35,
+                            "name": "Antral Bhag 2",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Hindi/Antral%20Bhag%202/antral_part2.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Hindi/Antral%20Bhag%202/lhan1dd/lhan1ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "Chapter 1",
+                                    "link": "class%2012/Hindi/Antral%20Bhag%202/lhan1dd/lhan101.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Chapter 2",
+                                    "link": "class%2012/Hindi/Antral%20Bhag%202/lhan1dd/lhan102.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Chapter 3",
+                                    "link": "class%2012/Hindi/Antral%20Bhag%202/lhan1dd/lhan103.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 36,
+                            "name": "Aroh",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Hindi/Aroh/aaroh2.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Hindi/Aroh/lhar1dd/lhar1ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "Chapter 1",
+                                    "link": "class%2012/Hindi/Aroh/lhar1dd/lhar101.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Chapter 2",
+                                    "link": "class%2012/Hindi/Aroh/lhar1dd/lhar102.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Chapter 3",
+                                    "link": "class%2012/Hindi/Aroh/lhar1dd/lhar103.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Chapter 4",
+                                    "link": "class%2012/Hindi/Aroh/lhar1dd/lhar104.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Chapter 5",
+                                    "link": "class%2012/Hindi/Aroh/lhar1dd/lhar105.pdf"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Chapter 6",
+                                    "link": "class%2012/Hindi/Aroh/lhar1dd/lhar106.pdf"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Chapter 7",
+                                    "link": "class%2012/Hindi/Aroh/lhar1dd/lhar107.pdf"
+                                },
+                                {
+                                    "id": 8,
+                                    "name": "Chapter 8",
+                                    "link": "class%2012/Hindi/Aroh/lhar1dd/lhar108.pdf"
+                                },
+                                {
+                                    "id": 9,
+                                    "name": "Chapter 9",
+                                    "link": "class%2012/Hindi/Aroh/lhar1dd/lhar109.pdf"
+                                },
+                                {
+                                    "id": 10,
+                                    "name": "Chapter 10",
+                                    "link": "class%2012/Hindi/Aroh/lhar1dd/lhar110.pdf"
+                                },
+                                {
+                                    "id": 11,
+                                    "name": "Chapter 11",
+                                    "link": "class%2012/Hindi/Aroh/lhar1dd/lhar111.pdf"
+                                },
+                                {
+                                    "id": 12,
+                                    "name": "Chapter 12",
+                                    "link": "class%2012/Hindi/Aroh/lhar1dd/lhar112.pdf"
+                                },
+                                {
+                                    "id": 13,
+                                    "name": "Chapter 13",
+                                    "link": "class%2012/Hindi/Aroh/lhar1dd/lhar113.pdf"
+                                },
+                                {
+                                    "id": 14,
+                                    "name": "Chapter 14",
+                                    "link": "class%2012/Hindi/Aroh/lhar1dd/lhar114.pdf"
+                                },
+                                {
+                                    "id": 15,
+                                    "name": "Chapter 15",
+                                    "link": "class%2012/Hindi/Aroh/lhar1dd/lhar115.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 37,
+                            "name": "Vitan",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Hindi/Vitan/vitan.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Hindi/Vitan/lhvt1dd/lhvt1ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "Chapter 1",
+                                    "link": "class%2012/Hindi/Vitan/lhvt1dd/lhvt101.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Chapter 2",
+                                    "link": "class%2012/Hindi/Vitan/lhvt1dd/lhvt102.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Chapter 3",
+                                    "link": "class%2012/Hindi/Vitan/lhvt1dd/lhvt103.pdf"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "type": "Sanskrit",
+                    "icon": "assets/icons_sub/Sanskrit.svg",
+                    "book": [
+                        {
+                            "id": 38,
+                            "name": "Bhaswati",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Sanskrit/Bhaswati/bhaswati.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Sanskrit/Bhaswati/lhsk1dd/lhsk1ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "Chapter 1",
+                                    "link": "class%2012/Sanskrit/Bhaswati/lhsk1dd/lhsk101.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Chapter 2",
+                                    "link": "class%2012/Sanskrit/Bhaswati/lhsk1dd/lhsk102.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Chapter 3",
+                                    "link": "class%2012/Sanskrit/Bhaswati/lhsk1dd/lhsk103.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Chapter 4",
+                                    "link": "class%2012/Sanskrit/Bhaswati/lhsk1dd/lhsk104.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Chapter 5",
+                                    "link": "class%2012/Sanskrit/Bhaswati/lhsk1dd/lhsk105.pdf"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Chapter 6",
+                                    "link": "class%2012/Sanskrit/Bhaswati/lhsk1dd/lhsk106.pdf"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Chapter 7",
+                                    "link": "class%2012/Sanskrit/Bhaswati/lhsk1dd/lhsk107.pdf"
+                                },
+                                {
+                                    "id": 8,
+                                    "name": "Chapter 8",
+                                    "link": "class%2012/Sanskrit/Bhaswati/lhsk1dd/lhsk108.pdf"
+                                },
+                                {
+                                    "id": 9,
+                                    "name": "Chapter 9",
+                                    "link": "class%2012/Sanskrit/Bhaswati/lhsk1dd/lhsk109.pdf"
+                                },
+                                {
+                                    "id": 10,
+                                    "name": "Chapter 10",
+                                    "link": "class%2012/Sanskrit/Bhaswati/lhsk1dd/lhsk110.pdf"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 39,
+                            "name": "Shashwati",
+                            "full_pdf_link": "",
+                            "image": "class%2012/Sanskrit/Shaswati/shaswati.jpeg",
+                            "pdf_links": [
+                                {
+                                    "id": 0,
+                                    "name": "Content",
+                                    "link": "class%2012/Sanskrit/Shaswati/lhsk2dd/lhsk2ps.pdf"
+                                },
+                                {
+                                    "id": 1,
+                                    "name": "Chapter 1",
+                                    "link": "class%2012/Sanskrit/Shaswati/lhsk2dd/lhsk201.pdf"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Chapter 2",
+                                    "link": "class%2012/Sanskrit/Shaswati/lhsk2dd/lhsk202.pdf"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Chapter 3",
+                                    "link": "class%2012/Sanskrit/Shaswati/lhsk2dd/lhsk203.pdf"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Chapter 4",
+                                    "link": "class%2012/Sanskrit/Shaswati/lhsk2dd/lhsk204.pdf"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Chapter 5",
+                                    "link": "class%2012/Sanskrit/Shaswati/lhsk2dd/lhsk205.pdf"
+                                },
+                                {
+                                    "id": 6,
+                                    "name": "Chapter 6",
+                                    "link": "class%2012/Sanskrit/Shaswati/lhsk2dd/lhsk206.pdf"
+                                },
+                                {
+                                    "id": 7,
+                                    "name": "Chapter 7",
+                                    "link": "class%2012/Sanskrit/Shaswati/lhsk2dd/lhsk207.pdf"
+                                },
+                                {
+                                    "id": 8,
+                                    "name": "Chapter 8",
+                                    "link": "class%2012/Sanskrit/Shaswati/lhsk2dd/lhsk208.pdf"
+                                },
+                                {
+                                    "id": 9,
+                                    "name": "Chapter 9",
+                                    "link": "class%2012/Sanskrit/Shaswati/lhsk2dd/lhsk209.pdf"
+                                },
+                                {
+                                    "id": 10,
+                                    "name": "Chapter 10",
+                                    "link": "class%2012/Sanskrit/Shaswati/lhsk2dd/lhsk210.pdf"
+                                },
+                                {
+                                    "id": 11,
+                                    "name": "Chapter 11",
+                                    "link": "class%2012/Sanskrit/Shaswati/lhsk2dd/lhsk211.pdf"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
